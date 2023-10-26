@@ -1,3 +1,4 @@
 {
-    "colorWheel.settings.workspaceColor": "hsl(296,76%,25%)"
+    "colorWheel.settings.workspaceColor": "hsl(296,76%,25%)",
+    "DockerRun.DisableAutoGenerateConfig": true
 }
